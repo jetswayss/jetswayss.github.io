@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Development on Kun-Chuan Hsieh&#39;s Blog</title>
+    <link>https://jetswayss.com/categories/software-development/</link>
+    <description>Recent content in Software Development on Kun-Chuan Hsieh&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 07:00:00 +0000</lastBuildDate><atom:link href="https://jetswayss.com/categories/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Submit Patch to Linux Kernel</title>
+      <link>https://jetswayss.com/posts/20210309-submit-kernel-patch/</link>
+      <pubDate>Fri, 12 Mar 2021 07:00:00 +0000</pubDate>
+      
+      <guid>https://jetswayss.com/posts/20210309-submit-kernel-patch/</guid>
+      <description>Recently, I needed to submit a patch to Linux kernel. After waiting for a long time, my patch finally got merged into Linus tree. 🥳
+I found that the Linux development process is quite different from other open source projects. So, I decided to write down how it works.
+Linux Development Process Concept Linus Torvalds maintains a Linux source repo. He releases the new version Linux kernel regularly. Also, when a new version is released, he&amp;rsquo;ll split a new branch and the stable tree maintainer will take care of the new branch.</description>
+    </item>
+    
+  </channel>
+</rss>

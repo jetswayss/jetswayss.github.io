@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>軟體開發 on Kun-Chuan Hsieh&#39;s Blog</title>
+    <link>https://jetswayss.com/zh-tw/categories/%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/</link>
+    <description>Recent content in 軟體開發 on Kun-Chuan Hsieh&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 07:00:00 +0000</lastBuildDate><atom:link href="https://jetswayss.com/zh-tw/categories/%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何進 Code 到 Linux Kernel</title>
+      <link>https://jetswayss.com/zh-tw/posts/20210309-submit-kernel-patch/</link>
+      <pubDate>Fri, 12 Mar 2021 07:00:00 +0000</pubDate>
+      
+      <guid>https://jetswayss.com/zh-tw/posts/20210309-submit-kernel-patch/</guid>
+      <description>最近剛好需要進 code 到 Linux kernel。 經過漫長的等待，我的 code 終於進到 Linus 的 tree 了 🥳
+發現這個 open source 的開發方式與一般常見的不太一樣，稍微紀錄一下 Linux 的運作方式
+Linux 開發概念 Linus Torvalds 會維護一個 Linux source repo。他會定期 release 新的 Linux kernel 版本，並 master 切 branch 出去，交由 stable tree maintainer 維護
+如果我們想要進 code 到 Linus 的 repo，要如何進行呢?
+直覺上的做法很簡單就是透過寄 email 給 Linus 的方式
+ 發出 pull request 寄出 patch 請他 commit  這兩個方法實際上也是可行的，但 Linux 的 source code 相當龐大，每天的 submit 數量也很多，全部由 Linus 一個人負擔不太實際</description>
+    </item>
+    
+  </channel>
+</rss>
